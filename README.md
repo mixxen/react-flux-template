@@ -1,4 +1,4 @@
-# react-browserify-template
+# react-flux-template
 
 ## Getting started:
 
@@ -6,4 +6,4 @@
   * `cd myapp`
   * `npm install`
   * `npm start` (will watch files for changes)
-  * Then open `index.html` in your browser. Edit `index.js` to make changes.
+  * Then open `index.html` in your browser. Edit `src/index.jsx` to make changes.

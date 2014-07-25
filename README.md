@@ -2,7 +2,7 @@
 
 ## Getting started:
 
-  * `git clone https://github.com/petehunt/react-browserify-template.git myapp`
+  * `git clone https://github.com/mixxen/react-flux-template.git myapp`
   * `cd myapp`
   * `npm install`
   * `npm start` (will watch files for changes)
